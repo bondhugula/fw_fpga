@@ -4,7 +4,7 @@
  *
  * $Id: fw_dummy.v,v 1.1 2005/10/03 15:07:09 ananth Exp $
  *
- * Top level module for the Floyd-Warshall Compute kernel
+ * Dummy top level module for the Floyd-Warshall Compute kernel
  *
  * Author: Uday Kumar Reddy Bondhugula
  *
