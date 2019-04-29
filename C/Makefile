@@ -1,7 +1,7 @@
 # Compilers
 CC = gcc
-CFLAGS = -O3 -Wall -m64 -L/usr/local/lib64 -lpthread
-EXFLAGS = -DPRINT -D_REENTRANT
+CFLAGS = -O3 -Wall
+EXFLAGS = -DPRINT
 
 INC = -I../ -I/usr/local/include
 
