@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
+ *
+ * Please see the LICENSE file for details.
+ */
 #ifndef _TIMER_H
 #define _TIMER_H
 

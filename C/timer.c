@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
+ *
+ * Please see the LICENSE file for details.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

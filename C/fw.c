@@ -2,6 +2,11 @@
  *
  * $Id: fw.c,v 1.23 2005/11/11 03:42:32 osc0414 Exp $
  *
+ * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
+ *
+ * Please see the LICENSE file for details.
+ *
  */
 #include <stdio.h>
 #include <stdlib.h>
