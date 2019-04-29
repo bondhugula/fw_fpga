@@ -1,24 +1,30 @@
-//
-// Copyright (C) 2005 Uday Bondhugula
-//
-// Please see the LICENSE file for details.
-//
+/*
+ * $Id: operator.v,v 1.5 2005/09/26 07:21:16 osc0414 Exp $
+ *
+ * Author: Uday Kumar Reddy Bondhugula
+ *
+ * Each operator comprises an adder and a multiplier
+ *
+ * Copyright (C) 2005 Uday Bondhugula
+ *
+ * Please see the LICENSE file for details.
+ *
+ */
+
 `include "params.v"
 
-module op(
+module operator(
 
-	in0,
- 	in1,
- 	in2,
- 
-	out0,
+	inA,
+	b,
+	c,
+
+	outA
 );
 
-input [`WIDTH-1: 0] in0;
-input [`WIDTH-1: 0] in1;
-input [`WIDTH-1: 0] in2;
+input [`WIDTH-1:0] inA, b, c;
+output [`WIDTH-1:0] outA;
 
-output [`WIDTH-1: 0] out0;
+assign outA = (b + c < inA)? (b + c): inA;
 
-assign out0 = in2;
 endmodule
