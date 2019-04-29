@@ -8,7 +8,7 @@
 //
 // Copyright (C) 2005 Uday Bondhugula
 //
-// Please see the LICENSE files for details.
+// Please see the LICENSE file for details.
 //
 
 `include	"params.v"

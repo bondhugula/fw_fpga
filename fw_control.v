@@ -8,6 +8,9 @@
 *
 * check pe_instr_decoder.v for instruction format
 *
+* Copyright (C) 2005 Uday Bondhugula
+*
+* Please see the LICENSE file for details.
 *
 */
 

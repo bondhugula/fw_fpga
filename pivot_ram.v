@@ -2,13 +2,15 @@
  *
  * $Id: pivot_ram.v,v 1.5 2005/09/27 21:54:39 osc0414 Exp $
  *
- * Uday Kumar Reddy Bondhugula
- *
  * BRAM for the pivot row or pivot column
  *
  * Author: Uday Kumar Reddy Bondhugula
  *
- * FIXME: inhibit not taken care of yet
+ * Copyright (C) 2005 Uday Bondhugula
+ *
+ * Please see the LICENSE file for details.
+ *
+ * FIXME: inhibit not taken care of yet.
  *
 */
 

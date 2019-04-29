@@ -8,6 +8,10 @@
  *
  * Author: Uday Kumar Reddy Bondhugula
  *
+ * Copyright (C) 2005 Uday Bondhugula
+ *
+ * Please see the LICENSE file for details.
+ *
  */
 
 `include "params.v"

@@ -6,7 +6,11 @@
  *
  * Author: Uday Kumar Reddy Bondhugula
  *
- * FIXME: inhibit not taken care of yet
+ * Copyright (C) 2005 Uday Bondhugula
+ *
+ * Please see the LICENSE file for details.
+ *
+ * FIXME: inhibit not taken care of yet.
  */
 
 `include "params.v"

@@ -1,9 +1,9 @@
 //
 // Copyright (C) 2005 Uday Bondhugula
 //
-// Please see the LICENSE files for details.
+// Please see the LICENSE file for details.
 //
-// Decodes the instruction and gives a command to the PE 
+// Decodes the instruction and gives a command to the PE.
 //
 `include "params.v"
 
