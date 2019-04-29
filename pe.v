@@ -1,12 +1,10 @@
 /*
- *
  * An FW Processing element
  * 
  * $Id: pe.v,v 1.63 2005/10/07 17:08:31 osc0414 Exp $
  *
- * Author: Uday Kumar Reddy Bondhugula
- *
  * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
  *
  * Please see the LICENSE file for details.
  *

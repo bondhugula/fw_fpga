@@ -4,9 +4,8 @@
 // clock.v
 // This module defines a clock (not synthesiable)
 //
-// Author: Uday Kumar Reddy Bondhugla
-//
 // Copyright (C) 2005 Uday Bondhugula
+// Copyright (C) 2005 Ananth Devulapalli
 //
 // Please see the LICENSE file for details.
 //

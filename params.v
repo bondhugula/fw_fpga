@@ -1,14 +1,12 @@
 /* 
- *
  * params.v 
  *
  * $Id: params.v,v 1.40 2005/11/02 07:44:07 osc0414 Exp $
  *
  * Parameters for the FPGA FW Kernel
  *
- * Uday Kumar Reddy Bondhugula
- *
  * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
  *
  * Please see the LICENSE file for details.
  *

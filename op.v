@@ -1,11 +1,10 @@
 /*
  * $Id: operator.v,v 1.5 2005/09/26 07:21:16 osc0414 Exp $
  *
- * Author: Uday Kumar Reddy Bondhugula
- *
  * Each operator comprises an adder and a multiplier
  *
  * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
  *
  * Please see the LICENSE file for details.
  *

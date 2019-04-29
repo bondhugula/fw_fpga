@@ -6,9 +6,8 @@
  *
  * Top level module for the Floyd-Warshall Compute kernel
  *
- * Author: Uday Kumar Reddy Bondhugula
- *
  * Copyright (C) 2005 Uday Bondhugula
+ * Copyright (C) 2005 Ananth Devulapalli
  *
  * Please see the LICENSE file for details.
  *

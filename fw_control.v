@@ -1,7 +1,5 @@
 /*
 *
-* Uday Kumar Reddy Bondhugula
-*
 * $Id: fw_control.v,v 1.22 2005/10/24 06:39:05 osc0414 Exp $
 *
 * Creates control instructions for the array of PEs 
@@ -9,6 +7,7 @@
 * check pe_instr_decoder.v for instruction format
 *
 * Copyright (C) 2005 Uday Bondhugula
+* Copyright (C) 2005 Ananth Devulapalli
 *
 * Please see the LICENSE file for details.
 *
